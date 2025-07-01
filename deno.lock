@@ -1,0 +1,14 @@
+{
+  "version": "5",
+  "redirects": {
+    "https://deno.land/x/sentry/index.mjs": "https://deno.land/x/sentry@8.55.0/index.mjs"
+  },
+  "remote": {
+    "https://deno.land/x/sentry@8.55.0/index.mjs": "573a1f82e1528ad6d211cb4945c2df63168d038b500f80922efce0e8cff801cb"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/assert@1"
+    ]
+  }
+}
